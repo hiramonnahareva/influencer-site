@@ -25,7 +25,7 @@ header section start
 }
 .section-info{
     background-color: #FFFF;
-    width: 80vw;
+    width:100%;
     display: flex;
     justify-content: space-between;
     padding: 4em;
